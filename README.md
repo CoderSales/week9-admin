@@ -6,7 +6,7 @@ week6-admin
 
 ____
 
-![image](https://github.com/user-attachments/assets/f51f002f-56c5-44c6-8e04-780b4de93891)
+![image](https://github.com/user-attachments/assets/d0163880-7a73-4823-8207-287eadd3b0ea)
 
 ![image](https://github.com/user-attachments/assets/5575e09a-b3ee-4b2d-886f-0daa46fa2fbd)
 
