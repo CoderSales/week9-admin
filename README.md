@@ -6,7 +6,7 @@ week9-admin
 
 ____
 
-![image](https://github.com/user-attachments/assets/963bcf21-0df5-4d57-9fee-caef892eb9d0)
+![image](https://github.com/user-attachments/assets/158d5b83-a258-407a-8085-f2108bf84a85)
 
 ## References
 
